@@ -2,7 +2,9 @@
 
 In this challenge, us students were tasked with accessing contents within APIs
 - NYT API
+
 *AND*
+
 - TMDB API
 
 To start we were tasked with creating a dataframe that held information from the
